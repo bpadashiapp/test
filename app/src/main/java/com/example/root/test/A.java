@@ -6,4 +6,6 @@ package com.example.root.test;
 
 public class A {
 
+    int a;
+
 }
