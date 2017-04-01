@@ -5,5 +5,5 @@ package com.example.root.test;
  */
 
 public class B {
-    int b11;
+    int b12;
 }
